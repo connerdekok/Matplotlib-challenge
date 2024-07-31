@@ -1,7 +1,7 @@
 # Matplotlib-challenge
 Title- Homework Module 5 Matplotlib Challenge- Conner Dekok:
 
-Jupyter Notebook file can be found in file titled pymaceuticals 
+Jupyter Notebook file can be found in the file titled pymaceuticals 
 
  Collaboration with other students- I worked with Nicholas Fussy and Hunter Becker when it came to comparing results of code along with sharing portions of code to help complete the project. This helped us brainstorm and help each other with issues we ran into while working with this code. 
 
